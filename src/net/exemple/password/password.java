@@ -1,12 +1,10 @@
-package net.exemple;
+package net.exemple.password;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.net.URL;
-import java.util.Scanner;
+import net.exemple.password.passwordManager;
 
-public class main {
+public class password {
     public static void main(String[] args) {
         System.out.println("Hello Software Engineering");
 
